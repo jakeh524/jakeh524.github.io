@@ -1,9 +1,7 @@
-.noto_sans_tc_font {
-	font-family: 'Noto Sans TC', sans-serif;
-}
 
 .header_block {
 	margin-left: 80px;
 	margin-top: 80px;
+	font-size:40px
 }
 
