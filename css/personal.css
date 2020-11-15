@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
 
 body {
 	font-family: 'Noto Sans TC', sans-serif;
@@ -13,9 +13,9 @@ body {
 
 .about_block {
 	position: relative;
-	width: 750px;
+	width: 700px;
 	margin-left: 450px;
-	margin-top: 300px;
+	margin-top: 275px;
 	line-height: 1.5;
 	display: inline-block;
 	max-width: 100%;
@@ -29,7 +29,7 @@ img {
 
 .image_block {
 	position: absolute;
-	width: 750px;
+	width: 700px;
 	height: auto;
 	left: 450px;
 	top: 80px;
