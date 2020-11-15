@@ -8,7 +8,7 @@
 	position: relative;
 	width: 750px;
 	margin-left: 450px;
-	margin-top: 200px;
+	margin-top: 300px;
 	line-height: 1.5;
 	display: inline-block;
 	max-width: 100%;
@@ -22,7 +22,7 @@ img {
 
 .image_block {
 	position: absolute;
-	width: 7550px;
+	width: 750px;
 	height: auto;
 	left: 450px;
 	top: 80px;
