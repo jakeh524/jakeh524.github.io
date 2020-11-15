@@ -6,7 +6,7 @@
 
 .about_block {
 	position: relative;
-	width: 800px;
+	width: 750px;
 	margin-left: 450px;
 	margin-top: 200px;
 	line-height: 1.5;
@@ -22,8 +22,8 @@ img {
 
 .image_block {
 	position: absolute;
-	width: 800px;
-	height: 533px;
+	width: 7550px;
+	height: auto;
 	left: 450px;
 	top: 80px;
 }
