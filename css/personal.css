@@ -2,13 +2,16 @@
 .header_block {
 	margin-left: 80px;
 	margin-top: 80px;
+	line-height: 1.5
 }
 
 .about_block {
+	position: relative;
 	width: 1600px;
 	margin-left: 400px;
-	margin-top: 400px;
-	margin-right: 400px;
+	margin-top: 200px;
 	line-height: 1.5;
+	display: inline-block;
+  	height: auto;
 }
 
